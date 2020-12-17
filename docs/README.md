@@ -10,19 +10,19 @@ Source data and the spreadsheet to create these images - [https://github.com/Log
 
 ### Hospital Admissions (England)
 
-![Hospital Admissions (England)](sari+usiss\hospital-england.png)
+![Hospital Admissions (England)](sari+usiss/hospital-england.png)
 
 
 ### Hospital Admissions (Regions)
-![Hospital Admissions (Regions)](sari+usiss\hospital-regions.png)
+![Hospital Admissions (Regions)](sari+usiss/hospital-regions.png)
 
 
 ### ICU Admissions (England)
-![ICU Admissions (England)](sari+usiss\icu-england.png)
+![ICU Admissions (England)](sari+usiss/icu-england.png)
 
 
 ### ICU Admissions (Regions)
-![ICU Admissions (Regions)](sari+usiss\icu-regions.png)
+![ICU Admissions (Regions)](sari+usiss/icu-regions.png)
 
 
 
